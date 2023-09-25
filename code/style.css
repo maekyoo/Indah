@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+h1 {
+    font-family:'Homemade Apple';
+    size:50 px;
+    color:#4c797d;
+}
+.pil1 {
+    background-color:rgb(136, 71, 136);
+    border: none;
+    height: 30px;
+    width: 30px;
+    border-radius: 3px;
+    color: white;
+    text-decoration: none;
+}
